@@ -1,1 +1,1 @@
-My Project with others
+My project with other contributors.
