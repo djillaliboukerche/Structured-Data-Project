@@ -1,1 +1,1 @@
-These two  project are done with other contributors as well.
+These two  projects are done with other contributors as well.
