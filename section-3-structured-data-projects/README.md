@@ -1,1 +1,1 @@
-My project with other contributors.
+This project is done with other contributors as well.
